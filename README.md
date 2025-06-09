@@ -71,14 +71,6 @@ Sistema modulare per la gestione di cantieri edili.
 
 ---
 
-### 📱 [Ring](https://github.com/Fernando-Riccioli/Ring)  
-Software di gestione per le chiamate e i messaggi di telefoni aziendali
-- `UML` per la progettazione e per la documentazione
-- `Java` come linguaggio di programmazione 
-- `JUnit` per testare le funzionalità
-
----
-
 ### ⚽ [Agente AI](https://github.com/Fernando-Riccioli/LangGraphAgentSoccer)  
 Agente di intelligenza artificiale per la creazione di post per blog sportivi.
 - `LangGraph` per realizzare il flusso dell'agente
@@ -86,6 +78,13 @@ Agente di intelligenza artificiale per la creazione di post per blog sportivi.
 - `Retrieval Augmented Generation` per le linee guida di generazione dei post
 - `Reflection` ed `Evaluation` come nodi per migliorare l'output
 - `gpt-4o-mini` come LLM per la generazione del testo
+
+---
+
+## 🌍 Esperienza Internazionale & Lingua
+
+✈ Tra il 2017 e il 2018 ho vissuto un anno negli Stati Uniti per un'esperienza di studio.  
+🗣️ Livello di Inglese: C2 (padronanza avanzata della lingua, sia scritta che parlata).
 
 ---
 
