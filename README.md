@@ -83,7 +83,7 @@ Agente di intelligenza artificiale per la creazione di post per blog sportivi.
 
 ## 🌍 Esperienza Internazionale & Lingua
 
-✈ Tra il 2017 e il 2018 ho vissuto un anno negli Stati Uniti in Erasmus  
+✈ Tra il 2017 e il 2018 ho vissuto un anno negli Stati Uniti grazie al programma Erasmus  
 🗣️ Livello di Inglese: C2 (padronanza avanzata della lingua, sia scritta che parlata)
 
 ---
