@@ -1,7 +1,7 @@
 <h1 align="center">👋Ciao, sono Fernando!</h1>
 
 <p align="center">
-🎓 Studente Magistrale in Ingegneria Informatica all'Università di Catania<br>
+🎓 Studente del Corso di Laurea Magistrale in Ingegneria Informatica all'Università di Catania<br>
 </p>
 
 ---
