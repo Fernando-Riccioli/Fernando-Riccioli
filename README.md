@@ -2,7 +2,6 @@
 
 <p align="center">
 🎓 Studente Magistrale in Ingegneria Informatica all'Università di Catania<br>
-🛡️ Sono appassionato di Cybersecurity, Machine Learning e Full-Stack Development<br>
 </p>
 
 ---
