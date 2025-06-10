@@ -49,7 +49,7 @@
 
 ## 🚀 Progetti in Evidenza
 
-### 📈  [FinanceApp](https://github.com/Fernando-Riccioli/DSBD-FinanceApp)  
+### 📈  [FinanceApp](https://github.com/Fernando-Riccioli/FinanceApp)  
 Sistema distribuito per ricevere notifiche sul mercato finanziario. 
 - `gRPC` per la comunicazione tra il modulo client e il modulo server 
 - `Kafka` per la gestione degli eventi con pattern publisher/subscriber
@@ -70,7 +70,7 @@ Sistema modulare per la gestione di cantieri edili.
 
 ---
 
-### ⚽ [Agente AI](https://github.com/Fernando-Riccioli/LangGraphAgentSoccer)  
+### ⚽ [Agente LangGraph](https://github.com/Fernando-Riccioli/LangGraph-Agent)  
 Agente di intelligenza artificiale per la creazione di post per blog sportivi.
 - `LangGraph` per realizzare il flusso dell'agente
 - Recupero dati tramite API da `football-data.org`
