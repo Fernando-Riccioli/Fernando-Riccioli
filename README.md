@@ -49,6 +49,19 @@
 
 ## 🚀 Progetti in Evidenza
 
+### 🐁 [V1TA](https://github.com/Fernando-Riccioli/V1TA)  
+Adattamento del modello Vision Transformer (V1T) per prevedere le risposte neurali nel cervello di topi utilizzando il dataset Allen Brain Observatory.
+
+- `V1T` per predire l'attivazione nella corteccia cerebrale primaria V1
+- `Allen Brain Observatory` come dataset di segnali neuronali 
+- `ΔF/F` come misura della fluorescenza per l'attivazione dei neuroni  
+- Resizing delle immagini `918×1174 → 144×256`  
+- Preprocessing e normalizzazione su finestre da `500ms`
+- Modifica del codice originale `data.py` per supportare il dataset Allen   
+- Sessioni di allenamento con Poisson loss e `learning rate` separati per core e readout  
+
+---
+
 ### 📈  [FinanceApp](https://github.com/Fernando-Riccioli/FinanceApp)  
 Sistema distribuito per ricevere notifiche sul mercato finanziario. 
 - `gRPC` per la comunicazione tra il modulo client e il modulo server 
@@ -62,21 +75,11 @@ Sistema distribuito per ricevere notifiche sul mercato finanziario.
 ---
 
 ### 🏗️ [SiteManager](https://github.com/Fernando-Riccioli/SiteManager) 
-Sistema modulare per la gestione di cantieri edili.
+Sistema multi-linguaggio per la gestione di cantieri edili.
 - `Python` per la creazione di report sui costi e sui materiali  
 - Interfaccia grafica multi-piattaforma in `C#` e `XAML` su `.NET MAUI`  
 - `C++` per calcolare statistiche
 - `MySQL` per memorizzare i dati sugli operai, i materiali e le spese
-
----
-
-### ⚽ [Agente LangGraph](https://github.com/Fernando-Riccioli/LangGraph-Agent)  
-Agente di intelligenza artificiale per la creazione di post per blog sportivi.
-- `LangGraph` per realizzare il flusso dell'agente
-- Recupero dati tramite API da `football-data.org`
-- `Retrieval Augmented Generation` per le linee guida di generazione dei post
-- `Reflection` ed `Evaluation` come nodi per migliorare l'output
-- `gpt-4o-mini` come LLM per la generazione del testo
 
 ---
 
