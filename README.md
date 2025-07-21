@@ -50,14 +50,14 @@
 ## 🚀 Progetti in Evidenza
 
 ### 🐁 [V1TA](https://github.com/Fernando-Riccioli/V1TA)  
-Adattamento del modello Vision Transformer (V1T) per prevedere le risposte neurali nel cervello di topi utilizzando il dataset Allen Brain Observatory.
+Adattamento del Vision Transformer V1T per prevedere le risposte neuronali con l'Allen Brain Observatory Dataset.
 
-- `V1T` per predire l'attivazione nella corteccia cerebrale primaria V1
-- `Allen Brain Observatory` come dataset di segnali neuronali 
+- `V1T` per predire l'attivazione nella corteccia cerebrale primaria V1 nei topi
+- `Allen Brain Observatory` come dataset
 - `ΔF/F` come misura della fluorescenza per l'attivazione dei neuroni  
 - Resizing delle immagini `918×1174 → 144×256`  
 - Preprocessing e normalizzazione su finestre da `500ms`
-- Modifica del codice originale `data.py` per supportare il dataset Allen   
+- Modifica del codice originale `data.py` per supportare il nuovo dataset   
 - Sessioni di allenamento con Poisson loss e `learning rate` separati per core e readout  
 
 ---
