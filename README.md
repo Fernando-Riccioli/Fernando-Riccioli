@@ -1,96 +1,105 @@
-<h1 align="center">👋Ciao, sono Fernando!</h1>
+<h1 align="center">👋 Ciao, sono Fernando!</h1>
 
 <p align="center">
-🎓 Studente del Corso di Laurea Magistrale in Ingegneria Informatica all'Università di Catania<br>
+🎓 <b>AI Engineer</b> @ Hidonix Industries · MSc Computer Engineering @ Università di Catania (110/110 cum laude)<br>
+🎯 Focus: Computer Vision, Speech Recognition, inference optimization (NVIDIA Triton, ONNX, vLLM)
 </p>
 
 ---
 
-## 🧠 Competenze Tecniche
+## 🧠 Stack Tecnico
 
-### Linguaggi di Programmazione
+### AI / ML — Computer Vision & Language Models
 <p>
-  <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&logoColor=white&color=007396"/>
-  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
-  <img src="https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=flat&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-7F52FF?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black"/>
+</p>
+
+### Backend & Linguaggi
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC"/>
-  <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
-### DevOps
+### Infrastructure & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED"/>
-  <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5"/>
-  <img src="https://img.shields.io/badge/Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=E6522C"/>
-  <img src="https://img.shields.io/badge/Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=231F20"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
 </p>
 
-### Intelligenza Artificiale & ML
+### Data & IoT
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-3b1ead?logo=huggingface"/>
-  <img src="https://img.shields.io/badge/LangGraph-informational?style=flat&logo=openai&logoColor=white&color=7F52FF"/>
-  <img src="https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C"/>
-</p>
-
-### Framework & Tools
-<p>
-  <img src="https://img.shields.io/badge/.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit"/>
-  <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Progetti in Evidenza
 
-### 🐁 [V1TA](https://github.com/Fernando-Riccioli/V1TA)  
-Adattamento del Vision Transformer V1T per prevedere le risposte neuronali con l'Allen Brain Observatory Dataset.
+### 🐁 [V1TA](https://github.com/Fernando-Riccioli/V1TA) — Vision Transformer per la corteccia visiva
+**Predizione di risposte neuronali nella corteccia visiva primaria (V1) del topo a partire da stimoli visivi.**
 
-- `V1T` per predire l'attivazione nella corteccia cerebrale primaria V1 nei topi
-- `Allen Brain Observatory` come dataset
-- `ΔF/F` come misura della fluorescenza per l'attivazione dei neuroni  
-- Resizing delle immagini `918×1174 → 144×256`  
-- Preprocessing e normalizzazione su finestre da `500ms`
-- Modifica del codice originale `data.py` per supportare il nuovo dataset   
-- Sessioni di allenamento con Poisson loss e `learning rate` separati per core e readout  
+Adattamento dell'architettura Vision Transformer V1T all'**Allen Brain Observatory Dataset**, per predire l'attivazione neuronale misurata come ΔF/F.
+
+- 🔬 *Contributo principale*: riscrittura della pipeline dati (`data.py`) per supportare il nuovo dataset, con resize delle immagini `918×1174 → 144×256` e normalizzazione su finestre temporali da `500ms`.
+- 🎯 Training con Poisson loss e *learning rate* separati per core e readout.
+- 🛠 *Stack*: PyTorch · Vision Transformer · Neuroscience datasets
 
 ---
 
-### 📈  [FinanceApp](https://github.com/Fernando-Riccioli/FinanceApp)  
-Sistema distribuito per ricevere notifiche sul mercato finanziario. 
-- `gRPC` per la comunicazione tra il modulo client e il modulo server 
-- `Kafka` per la gestione degli eventi con pattern publisher/subscriber
-- `Kubernetes` per gestire l'orchestrazione dei container dell'app
-- `Docker` per la creazione e l'avvio dei componenti dell'applicazione 
-- `MySQL` come database per la memorizzazione dei dati finanziari  
-- `Prometheus` per il monitoraggio delle prestazioni 
-- `LaTeX` per la documentazione del progetto
+### 📈 [FinanceApp](https://github.com/Fernando-Riccioli/FinanceApp) — Notifiche di mercato distribuite
+**Sistema distribuito per la consegna real-time di notifiche sul mercato finanziario.**
+
+Architettura event-driven con pattern publisher/subscriber e orchestrazione containerizzata.
+
+- 🔗 *gRPC* per la comunicazione client ↔ server
+- 📨 *Kafka* come backbone di eventi
+- ☸️ *Kubernetes* per orchestrazione, *Docker* per il packaging
+- 🗄 *MySQL* per la persistenza, *Prometheus* per il monitoring
+- 📄 Documentazione in LaTeX
+- 🛠 *Stack*: gRPC · Kafka · Kubernetes · Docker · MySQL · Prometheus
 
 ---
 
-### 🏗️ [SiteManager](https://github.com/Fernando-Riccioli/SiteManager) 
-Sistema multi-linguaggio per la gestione di cantieri edili.
-- `Python` per la creazione di report sui costi e sui materiali  
-- Interfaccia grafica multi-piattaforma in `C#` e `XAML` su `.NET MAUI`  
-- `C++` per calcolare statistiche
-- `MySQL` per memorizzare i dati sugli operai, i materiali e le spese
+### 🏗️ [SiteManager](https://github.com/Fernando-Riccioli/SiteManager) — Gestione cantieri multi-linguaggio
+**Sistema polyglot per la gestione di cantieri edili: materiali, operai, spese.**
+
+Progetto pensato per esercitare l'integrazione tra linguaggi e ambienti diversi all'interno di un'unica applicazione coerente.
+
+- 🐍 *Python* per la generazione di report su costi e materiali
+- 🖥 *C# + XAML* su *.NET MAUI* per l'interfaccia grafica multi-piattaforma
+- ⚡ *C++* per i calcoli statistici
+- 🗄 *MySQL* per la persistenza
+- 🛠 *Stack*: Python · C# · .NET MAUI · C++ · MySQL
 
 ---
 
 ## 🌍 Esperienza Internazionale & Lingua
 
-✈ Tra il 2017 e il 2018 ho vissuto un anno negli Stati Uniti grazie al programma Erasmus  
-🗣️ Livello di Inglese: C2 (padronanza avanzata della lingua, sia scritta che parlata)
+✈️ Tra il 2017 e il 2018 ho vissuto un anno scolastico negli Stati Uniti  
+🗣️ **Inglese: C2** — padronanza avanzata, scritta e parlata (lettura quotidiana di paper e contenuti tecnici)
 
 ---
 
 ## 📫 Contatti
 
-📧 Email: [ricciolifernando@gmail.com](mailto:ricciolifernando@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/fernando-riccioli](https://linkedin.com/in/fernando-riccioli)
+📧 [ricciolifernando@gmail.com](mailto:ricciolifernando@gmail.com)  
+💼 [linkedin.com/in/fernando-riccioli](https://linkedin.com/in/fernando-riccioli)
