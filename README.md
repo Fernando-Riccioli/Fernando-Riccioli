@@ -13,6 +13,10 @@ I care about measurements being right: reproducible benchmarks, warm-up excluded
 
 AI Engineer (R&D) at Hidonix Industries · MSc Computer Engineering, University of Catania (110/110 cum laude) · Catania, Italy · open to remote roles
 
+## 🔨 Currently building
+
+**[inference-docs-rag](https://github.com/Fernando-Riccioli/inference-docs-rag)**: a RAG assistant over the NVIDIA DeepStream docs, built to be measured: expert-written gold set, retrieval and answer evaluation, per-request latency/token/cost tracing, a tool-using LangGraph agent, and a hosted API vs self-hosted vLLM serving benchmark. *Work in progress.*
+
 ## 📌 Featured
 
 | Project | What | Stack |
